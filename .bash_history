@@ -40,3 +40,31 @@ touch file2
 git commit .
 git add .
 git commit .
+ll
+git status
+git commmit -m "all commit" .
+git log
+git add .
+git commmit -m "all commit" .
+git commit -m "all commit" .
+git status
+git log
+ll -al
+cat d1
+cat newfile1
+ ll
+git --v
+git --version
+clear
+git init .
+ll -al
+git remote add origin https://github.com/Deevenkumar/DEVOPS.git
+git branch
+git push -u origin master
+git branch
+git branch
+git branch branch01
+git branch
+git checkout branch01
+git branch
+ll
